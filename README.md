@@ -5,6 +5,12 @@
 
 ## 🤹‍♂️使用方法:
 
+### 🌇电视/广播图标库：
+
+| 类 别  | 调用路径                                       | 最后更新   |
+|-------|------------------------------------------------|------------|
+| 📺电视  | [https://wswtv.github.io/tv/{频道名称}.png](https://github.com/wswtv/wswtv.github.io/tree/main/tv) | 2024.2.26    |
+| 📻广播  | [https://wswtv.github.io/radio/{频道名称}.png](https://github.com/wswtv/wswtv.github.io/tree/main/radio) | 2023.8.27   |
 
 ### ⛓️创建您的m3u订阅链接：
  - 下载 `demo.m3u` 空白示例文件并使用文本编辑软件打开。
