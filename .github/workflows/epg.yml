@@ -1,6 +1,7 @@
 name: EPG Update
 
 on:
+  workflow_dispatch:
   push:
   schedule:
     - cron: 0 * * * *
