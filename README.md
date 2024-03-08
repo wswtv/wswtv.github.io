@@ -1,18 +1,10 @@
 <p align="center"><img alt="wswtv.github.io" src="https://wswtv.github.io/logo.png"></p>
 <h1 align="center"> ✯ 一个可直连访问的电视/广播图标库与相关工具项目 ✯ </h1>
 <h3 align="center">🔕 永久免费 直连访问 完整开源 不断完善的台标 支持IPv4/IPv6双栈访问 🔕</h3>
-
-
 ---
 
 ## 🤹‍♂️使用方法:
 
-### 🌇电视/广播图标库：
-
-| 类 别  | 调用路径                                       | 最后更新   |
-|-------|------------------------------------------------|------------|
-| 📺电视  | [https://wswtv.github.io/tv/{频道名称}.png](https://github.com/wswtv/wswtv.github.io/tree/main/tv) | 2024.2.26    |
-| 📻广播  | [https://wswtv.github.io/radio/{频道名称}.png](https://github.com/wswtv/wswtv.github.io/tree/main/radio) | 2023.8.27   |
 
 ### ⛓️创建您的m3u订阅链接：
  - 下载 `demo.m3u` 空白示例文件并使用文本编辑软件打开。
