@@ -3,9 +3,9 @@
 <head>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>在线TXT转M3U格式 - 范明明</title>
+  <title>在线TXT转M3U格式 - 华明</title>
   <meta name="description" content="一个简单的在线TXT转M3U格式工具，纯前端处理，无需上传txt文件粘贴即转换，安全不偷源。">
-  <meta name="keywords" content="txt转m3u,txt转换,m3u生成,范明明,LIVE">
+  <meta name="keywords" content="txt转m3u,txt转换,m3u生成,华明,LIKE">
   <style>
     body {
       text-align: center;
@@ -73,13 +73,13 @@
   <h3>M3U格式转换结果:</h3>
   <textarea id="m3uOutput" rows="10" cols="80" readonly></textarea>
   <div id="copyright">
-    <p>© 2023 live.fanmingming.com All Rights Reserved.</p>
+    <p>© 2024 like.gitee.com/zhhyw/like All Rights Reserved.</p>
   </div>
   <script>
     function convertToM3U() {
       const txtInput = document.getElementById('txtInput').value;
       const lines = txtInput.split('\n');
-      let m3uOutput = '#EXTM3U x-tvg-url="https://live.fanmingming.com/e.xml"\n';
+      let m3uOutput = '#EXTM3U x-tvg-url="https://wswtv.github.io/e.xml"\n';
       let currentGroup = null;
       for (const line of lines) {
         const trimmedLine = line.trim();
@@ -89,7 +89,7 @@
           } else {
             const [originalChannelName, channelLink] = trimmedLine.split(',').map(item => item.trim());
             const processedChannelName = originalChannelName.replace(/(CCTV|CETV)-(\d+).*/, '$1$2');
-            m3uOutput += `#EXTINF:-1 tvg-name="${processedChannelName}" tvg-logo="https://live.fanmingming.com/tv/${processedChannelName}.png"`;
+            m3uOutput += `#EXTINF:-1 tvg-name="${processedChannelName}" tvg-logo="https://wswtv.github.io/tv/${processedChannelName}.png"`;
             if (currentGroup) {
               m3uOutput += ` group-title="${currentGroup}"`;
             }
