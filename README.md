@@ -41,6 +41,6 @@
 - 🆕**TXT转M3U格式**：
   - [https://wswtv.github.io/txt2m3u](https://wswtv.github.io/txt2m3u)
 - 📄**在线M3U转TXT**：
-  - Demo🔗 [https://fanmingming.com/txt?url=https://live.fanmingming.com/tv/m3u/ipv6.m3u](https://fanmingming.com/txt?url=https://live.fanmingming.com/tv/m3u/ipv6.m3u)
+  - Demo🔗 [https://fanmingming.com/txt?url=https://wswtv.github.io/tv/m3u/ipv6.m3u](https://fanmingming.com/txt?url=https://wswtv.github.io/tv/m3u/ipv6.m3u)
 - 🌐**M3U8 Web Player**:
   - Demo🔗 [https://wswtv.github.io/player/?vurl=https://0472.org/hls/cctv13.m3u8](https://wswtv.github.io/player/?vurl=https://0472.org/hls/cctv13.m3u8)
