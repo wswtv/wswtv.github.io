@@ -68247,6 +68247,9 @@
 	<programme channel="newtv金牌综艺" start="20240422090400 +0800" stop="20240422094800 +0800">
 		<title lang="zh">邻家诗话 第3季</title>
 	</programme>
+	<programme channel="newtv金牌综艺" start="20240422094800 +0800" stop="20240422122800 +0800">
+		<title lang="zh">新游记</title>
+	</programme>
 	<channel id="newtv精品体育">
 		<display-name lang="zh">NEWTV精品体育</display-name>
 	</channel>
