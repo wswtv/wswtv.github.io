@@ -16617,6 +16617,12 @@
 	<programme channel="咪咕综合体育" start="20260607040500 +0800" stop="20260607045000 +0800">
 		<title lang="zh">英超精华-25/26赛季英超第38轮</title>
 	</programme>
+	<programme channel="咪咕综合体育" start="20260607045000 +0800" stop="20260607045500 +0800">
+		<title lang="zh">频道宣传</title>
+	</programme>
+	<programme channel="咪咕综合体育" start="20260607050000 +0800" stop="20260607110000 +0800">
+		<title lang="zh">UFC格斗之夜 穆罕默德-邦菲 直播</title>
+	</programme>
 	<channel id="咪咕足球">
 		<display-name lang="zh">咪咕足球</display-name>
 	</channel>
@@ -16637,6 +16643,9 @@
 	</programme>
 	<programme channel="咪咕足球" start="20260607040500 +0800" stop="20260607044000 +0800">
 		<title lang="zh">西班牙篮球黄金一代01 屏障</title>
+	</programme>
+	<programme channel="咪咕足球" start="20260607045000 +0800" stop="20260607062000 +0800">
+		<title lang="zh">我爱女篮-25/26WCBA常规赛 第19轮 浙江稠州银行-江苏南钢</title>
 	</programme>
 	<channel id="四大名著剧场">
 		<display-name lang="zh">四大名著剧场</display-name>
@@ -49995,6 +50004,9 @@
 	<programme channel="newtv超级体育" start="20260607040000 +0800" stop="20260607053000 +0800">
 		<title lang="zh">国际足球赛场-25-26赛季英超联赛第32轮 阿森纳-伯恩茅斯(4K)</title>
 	</programme>
+	<programme channel="newtv超级体育" start="20260607053000 +0800" stop="20260607060000 +0800">
+		<title lang="zh">实况录像-精品赛事记录-2026年射箭世界杯墨西哥站</title>
+	</programme>
 	<channel id="newtv超级电影">
 		<display-name lang="zh">NEWTV超级电影</display-name>
 	</channel>
@@ -50027,6 +50039,12 @@
 	</programme>
 	<programme channel="newtv超级电视剧" start="20260607041200 +0800" stop="20260607045200 +0800">
 		<title lang="zh">25_飞狐外传（4K）</title>
+	</programme>
+	<programme channel="newtv超级电视剧" start="20260607045200 +0800" stop="20260607053100 +0800">
+		<title lang="zh">26_飞狐外传（4K）</title>
+	</programme>
+	<programme channel="newtv超级电视剧" start="20260607053100 +0800" stop="20260607061200 +0800">
+		<title lang="zh">27_飞狐外传（4K）</title>
 	</programme>
 	<channel id="newtv精品大剧">
 		<display-name lang="zh">NEWTV精品大剧</display-name>
@@ -50597,6 +50615,9 @@
 	</programme>
 	<programme channel="newtv金牌综艺" start="20260607041600 +0800" stop="20260607050200 +0800">
 		<title lang="zh">33_孤战</title>
+	</programme>
+	<programme channel="newtv金牌综艺" start="20260607050200 +0800" stop="20260607054700 +0800">
+		<title lang="zh">34_孤战</title>
 	</programme>
 	<channel id="newtv精品体育">
 		<display-name lang="zh">NEWTV精品体育</display-name>
