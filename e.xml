@@ -16584,6 +16584,12 @@
 	<programme channel="咪咕足球" start="20260724040500 +0800" stop="20260724044000 +0800">
 		<title lang="zh">西班牙篮球黄金一代03 美式问候</title>
 	</programme>
+	<programme channel="咪咕足球" start="20260724044000 +0800" stop="20260724045000 +0800">
+		<title lang="zh">频道宣传</title>
+	</programme>
+	<programme channel="咪咕足球" start="20260724045000 +0800" stop="20260724062500 +0800">
+		<title lang="zh">我爱女篮-25/26WCBA常规赛 第6轮 山东赤水河酒-新疆天山</title>
+	</programme>
 	<channel id="四大名著剧场">
 		<display-name lang="zh">四大名著剧场</display-name>
 	</channel>
@@ -50844,6 +50850,9 @@
 	<programme channel="newtv超级电影" start="20260724031200 +0800" stop="20260724044900 +0800">
 		<title lang="zh">屠夫之子</title>
 	</programme>
+	<programme channel="newtv超级电影" start="20260724044900 +0800" stop="20260724061500 +0800">
+		<title lang="zh">另类民兵葛二蛋</title>
+	</programme>
 	<channel id="newtv超级电视剧">
 		<display-name lang="zh">NEWTV超级电视剧</display-name>
 	</channel>
@@ -50864,6 +50873,12 @@
 	</programme>
 	<programme channel="newtv超级电视剧" start="20260724035300 +0800" stop="20260724043800 +0800">
 		<title lang="zh">20_包青天之七侠五义</title>
+	</programme>
+	<programme channel="newtv超级电视剧" start="20260724043800 +0800" stop="20260724052300 +0800">
+		<title lang="zh">21_包青天之七侠五义</title>
+	</programme>
+	<programme channel="newtv超级电视剧" start="20260724052300 +0800" stop="20260724060800 +0800">
+		<title lang="zh">22_包青天之七侠五义</title>
 	</programme>
 	<channel id="newtv精品大剧">
 		<display-name lang="zh">NEWTV精品大剧</display-name>
@@ -51434,6 +51449,9 @@
 	</programme>
 	<programme channel="newtv金牌综艺" start="20260724041800 +0800" stop="20260724050200 +0800">
 		<title lang="zh">29_秋蝉</title>
+	</programme>
+	<programme channel="newtv金牌综艺" start="20260724050200 +0800" stop="20260724054600 +0800">
+		<title lang="zh">30_秋蝉</title>
 	</programme>
 	<channel id="newtv精品体育">
 		<display-name lang="zh">NEWTV精品体育</display-name>
