@@ -59796,6 +59796,9 @@
 	<programme channel="newtv超级综艺" start="20260801203200 +0800" stop="20260801232300 +0800">
 		<title lang="zh">中国唱将</title>
 	</programme>
+	<programme channel="newtv超级综艺" start="20260801232300 +0800" stop="20260801000900 +0800">
+		<title lang="zh">01_蓝盔特战队</title>
+	</programme>
 	<channel id="newtv超级体育">
 		<display-name lang="zh">NEWTV超级体育</display-name>
 	</channel>
@@ -59856,6 +59859,9 @@
 	<programme channel="newtv超级体育" start="20260801213500 +0800" stop="20260801230500 +0800">
 		<title lang="zh">实况录像-2026世界杯 半决赛 法国队-西班牙队</title>
 	</programme>
+	<programme channel="newtv超级体育" start="20260801230500 +0800" stop="20260801010600 +0800">
+		<title lang="zh">2026年温布尔登网球锦标赛-男单半决赛(4K)</title>
+	</programme>
 	<channel id="newtv超级电影">
 		<display-name lang="zh">NEWTV超级电影</display-name>
 	</channel>
@@ -59906,6 +59912,9 @@
 	</programme>
 	<programme channel="newtv超级电影" start="20260801220700 +0800" stop="20260801233000 +0800">
 		<title lang="zh">独孤天下之异瞳</title>
+	</programme>
+	<programme channel="newtv超级电影" start="20260801233000 +0800" stop="20260801004500 +0800">
+		<title lang="zh">天堂计划</title>
 	</programme>
 	<channel id="newtv超级电视剧">
 		<display-name lang="zh">NEWTV超级电视剧</display-name>
@@ -60002,6 +60011,9 @@
 	</programme>
 	<programme channel="newtv超级电视剧" start="20260801222900 +0800" stop="20260801231500 +0800">
 		<title lang="zh">32_乔家的儿女</title>
+	</programme>
+	<programme channel="newtv超级电视剧" start="20260801231500 +0800" stop="20260801000100 +0800">
+		<title lang="zh">33_乔家的儿女</title>
 	</programme>
 	<channel id="newtv精品大剧">
 		<display-name lang="zh">NEWTV精品大剧</display-name>
@@ -60656,6 +60668,9 @@
 	</programme>
 	<programme channel="newtv金牌综艺" start="20260801223100 +0800" stop="20260801231700 +0800">
 		<title lang="zh">04_欢颜</title>
+	</programme>
+	<programme channel="newtv金牌综艺" start="20260801231700 +0800" stop="20260801234700 +0800">
+		<title lang="zh">杏花村好物推荐</title>
 	</programme>
 	<channel id="newtv精品体育">
 		<display-name lang="zh">NEWTV精品体育</display-name>
