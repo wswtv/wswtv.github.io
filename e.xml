@@ -16536,6 +16536,12 @@
 	<programme channel="咪咕综合体育" start="20260812015500 +0800" stop="20260812025000 +0800">
 		<title lang="zh">纪录片曼联92班第二季 第二集</title>
 	</programme>
+	<programme channel="咪咕综合体育" start="20260812025000 +0800" stop="20260812025500 +0800">
+		<title lang="zh">频道宣传</title>
+	</programme>
+	<programme channel="咪咕综合体育" start="20260812025500 +0800" stop="20260812035500 +0800">
+		<title lang="zh">世界杯精华</title>
+	</programme>
 	<channel id="咪咕足球">
 		<display-name lang="zh">咪咕足球</display-name>
 	</channel>
@@ -50289,6 +50295,9 @@
 	<programme channel="newtv超级综艺" start="20260812022500 +0800" stop="20260812031000 +0800">
 		<title lang="zh">32_骄阳似我</title>
 	</programme>
+	<programme channel="newtv超级综艺" start="20260812031000 +0800" stop="20260812045400 +0800">
+		<title lang="zh">影视留声机</title>
+	</programme>
 	<channel id="newtv超级体育">
 		<display-name lang="zh">NEWTV超级体育</display-name>
 	</channel>
@@ -50324,6 +50333,9 @@
 	</programme>
 	<programme channel="newtv超级电视剧" start="20260812022400 +0800" stop="20260812030900 +0800">
 		<title lang="zh">23_蛮好的人生</title>
+	</programme>
+	<programme channel="newtv超级电视剧" start="20260812030900 +0800" stop="20260812035400 +0800">
+		<title lang="zh">24_蛮好的人生</title>
 	</programme>
 	<channel id="newtv精品大剧">
 		<display-name lang="zh">NEWTV精品大剧</display-name>
@@ -50885,6 +50897,9 @@
 	</programme>
 	<programme channel="newtv金牌综艺" start="20260812023600 +0800" stop="20260812030600 +0800">
 		<title lang="zh">杏花村好物推荐</title>
+	</programme>
+	<programme channel="newtv金牌综艺" start="20260812030600 +0800" stop="20260812035000 +0800">
+		<title lang="zh">38_秋蝉</title>
 	</programme>
 	<channel id="newtv精品体育">
 		<display-name lang="zh">NEWTV精品体育</display-name>
