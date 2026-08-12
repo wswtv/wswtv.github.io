@@ -49686,6 +49686,9 @@
 	<programme channel="newtv超级综艺" start="20260813021400 +0800" stop="20260813030100 +0800">
 		<title lang="zh">01_很想很想你</title>
 	</programme>
+	<programme channel="newtv超级综艺" start="20260813030100 +0800" stop="20260813034700 +0800">
+		<title lang="zh">02_很想很想你</title>
+	</programme>
 	<channel id="newtv超级体育">
 		<display-name lang="zh">NEWTV超级体育</display-name>
 	</channel>
@@ -49721,6 +49724,9 @@
 	</programme>
 	<programme channel="newtv超级电视剧" start="20260813022400 +0800" stop="20260813031000 +0800">
 		<title lang="zh">28_蛮好的人生</title>
+	</programme>
+	<programme channel="newtv超级电视剧" start="20260813031000 +0800" stop="20260813035500 +0800">
+		<title lang="zh">29_蛮好的人生</title>
 	</programme>
 	<channel id="newtv精品大剧">
 		<display-name lang="zh">NEWTV精品大剧</display-name>
@@ -50282,6 +50288,9 @@
 	</programme>
 	<programme channel="newtv金牌综艺" start="20260813023000 +0800" stop="20260813031400 +0800">
 		<title lang="zh">43_秋蝉</title>
+	</programme>
+	<programme channel="newtv金牌综艺" start="20260813031400 +0800" stop="20260813034400 +0800">
+		<title lang="zh">杏花村好物推荐</title>
 	</programme>
 	<channel id="newtv精品体育">
 		<display-name lang="zh">NEWTV精品体育</display-name>
