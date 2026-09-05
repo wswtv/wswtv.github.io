@@ -15900,6 +15900,12 @@
 	<programme channel="咪咕足球" start="20260906040500 +0800" stop="20260906044000 +0800">
 		<title lang="zh">西班牙篮球黄金一代05 接班人们</title>
 	</programme>
+	<programme channel="咪咕足球" start="20260906044000 +0800" stop="20260906045000 +0800">
+		<title lang="zh">频道宣传</title>
+	</programme>
+	<programme channel="咪咕足球" start="20260906045000 +0800" stop="20260906063000 +0800">
+		<title lang="zh">我爱女篮-25/26赛季季后赛 1/4决赛G1 四川蜀道远达-上海浦发银行</title>
+	</programme>
 	<channel id="四大名著剧场">
 		<display-name lang="zh">四大名著剧场</display-name>
 	</channel>
@@ -48795,6 +48801,9 @@
 	<programme channel="newtv超级综艺" start="20260906041800 +0800" stop="20260906054600 +0800">
 		<title lang="zh">影视留声机</title>
 	</programme>
+	<programme channel="newtv超级综艺" start="20260906054600 +0800" stop="20260906074500 +0800">
+		<title lang="zh">中央广播电视总台主持人大赛 新闻主播季</title>
+	</programme>
 	<channel id="newtv超级体育">
 		<display-name lang="zh">NEWTV超级体育</display-name>
 	</channel>
@@ -48807,6 +48816,9 @@
 	<programme channel="newtv超级体育" start="20260906040000 +0800" stop="20260906060000 +0800">
 		<title lang="zh">实况录像-2026年汤姆斯杯羽毛球赛 决赛</title>
 	</programme>
+	<programme channel="newtv超级体育" start="20260906060000 +0800" stop="20260906063000 +0800">
+		<title lang="zh">实况录像-2026年射箭世界杯 西班牙站 2</title>
+	</programme>
 	<channel id="newtv超级电影">
 		<display-name lang="zh">NEWTV超级电影</display-name>
 	</channel>
@@ -48818,6 +48830,9 @@
 	</programme>
 	<programme channel="newtv超级电影" start="20260906033200 +0800" stop="20260906044000 +0800">
 		<title lang="zh">毒战生死线</title>
+	</programme>
+	<programme channel="newtv超级电影" start="20260906044000 +0800" stop="20260906060500 +0800">
+		<title lang="zh">向阳农庄的罗曼史</title>
 	</programme>
 	<channel id="newtv超级电视剧">
 		<display-name lang="zh">NEWTV超级电视剧</display-name>
@@ -48839,6 +48854,12 @@
 	</programme>
 	<programme channel="newtv超级电视剧" start="20260906040900 +0800" stop="20260906045200 +0800">
 		<title lang="zh">52_欢乐颂2</title>
+	</programme>
+	<programme channel="newtv超级电视剧" start="20260906045200 +0800" stop="20260906053500 +0800">
+		<title lang="zh">53_欢乐颂2</title>
+	</programme>
+	<programme channel="newtv超级电视剧" start="20260906053500 +0800" stop="20260906061800 +0800">
+		<title lang="zh">54_欢乐颂2</title>
 	</programme>
 	<channel id="newtv精品大剧">
 		<display-name lang="zh">NEWTV精品大剧</display-name>
@@ -49409,6 +49430,12 @@
 	</programme>
 	<programme channel="newtv金牌综艺" start="20260906040200 +0800" stop="20260906044600 +0800">
 		<title lang="zh">49_秋蝉</title>
+	</programme>
+	<programme channel="newtv金牌综艺" start="20260906044600 +0800" stop="20260906051600 +0800">
+		<title lang="zh">徽封贡酒好物推荐</title>
+	</programme>
+	<programme channel="newtv金牌综艺" start="20260906051600 +0800" stop="20260906060100 +0800">
+		<title lang="zh">34_红蔷薇（DVD版）</title>
 	</programme>
 	<channel id="newtv精品体育">
 		<display-name lang="zh">NEWTV精品体育</display-name>
